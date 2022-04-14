@@ -1,5 +1,12 @@
 .main-heading{
-    background-image: url("FSI-Build-a-Portfolio/images/coding-portfolio.jpeg");
-    background-size: cover;
-    background-color: peachpuff;
+    background-image: url("C:/Users/gabri/projects/FSI-Build-a-Portfolio/images/coding-portfolio.jpeg");
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 500px;
+    color: rgb(245, 125, 239);
+    font-family: fantasy;
+    font-size:xx-large;
+    font-stretch: extra-expanded;
+    text-align: center;
+    padding: 100px 0;
 }
